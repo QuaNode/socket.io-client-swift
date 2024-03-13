@@ -1,0 +1,16 @@
+PODS:
+  - QuaNode-Starscream (3.1.2)
+
+DEPENDENCIES:
+  - QuaNode-Starscream
+
+SPEC REPOS:
+  https://github.com/QuaNode/Starscream.git:
+    - QuaNode-Starscream
+
+SPEC CHECKSUMS:
+  QuaNode-Starscream: 749b9a9cfcf6dfbbdcbe393b1b18ad37e46be557
+
+PODFILE CHECKSUM: 6456c531dd19f5314c9340f075c0e8adf2bb9d58
+
+COCOAPODS: 1.15.2
